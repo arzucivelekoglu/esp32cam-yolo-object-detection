@@ -1,1 +1,1 @@
-# esp32cam-yolo-object-detection
+# Esp32 Cam ve YOLO Algoritmasını Kullanarak Nesne Tanıma 
