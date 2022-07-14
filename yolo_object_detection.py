@@ -106,7 +106,7 @@ while True:
     
     
     
-    cv2.imshow("Android Camera", frame)
+    cv2.imshow("Esp32 Camera", frame)
     
     if cv2.waitKey(2) == ord('q'):
         break
